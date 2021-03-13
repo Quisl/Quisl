@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Quisl
 - 👀 I’m interested in technology, livestreaming, Python programming, cloud computing, gaming, bouldering, stock markets and other related topics
 - 🌱 I’m currently learning about Kubernetes, smart contracts 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on funny projects & memes
 - 📫 How to reach me:
 * [Blog](https://quisl.de)
 * [Twitter](https://twitter.com/derquisl "Twitter")
